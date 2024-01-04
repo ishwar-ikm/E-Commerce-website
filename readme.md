@@ -49,7 +49,7 @@ E-Commerce website is a web application that provides an online shopping platfor
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Configure MongoDB: Update the MongoDB connection URI in the `app.js` file.
-4. Configure Nodemailer: Update email and app password for sending emails in controller/login.js in transporter function on line 8
+4. Configure Nodemailer: Update email and app password for sending emails in controller/auth.js in transporter function on line 12
 5. Run the application: `npm start`
 6. Open the application in your browser: `http://localhost:3000`
 
